@@ -1,0 +1,1 @@
+{"name":"Local: 01bags","url":"/Users/qg/CLionProjects/codeforces/template/01bags.cpp","tests":[{"id":1651603537693,"input":"5 10\n5 3\n3 6\n7 8\n5 9\n2 4","output":"19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/qg/CLionProjects/codeforces/template/01bags.cpp","group":"local","local":true}
